@@ -63,7 +63,7 @@ class WriteaRcomponent extends Component {
                     const { submitmessageTextColor, submitmessage } = this.state;
                     const { handler } = value;
                     return (
-                        <div className="container my-5 py-5">
+                        <div className="container my-5                                                                              py-5">
                             <  h1 className="font-weight-light text-center py-5">
                                 <span className="text-info">Thanks you!</span> showing interest
                             </h1>

@@ -11,7 +11,8 @@ function Skillsection() {
         const finalSkillRow = [];
         for (let i = 0; i < skill.length / 4; i++) {
           let SkillRow = skill.slice(i * 4, (i + 1) * 4);
-          finalSkillRow.push(<div key={uuid()} className="d-flex justify-content-around py-3">
+          finalSkillRow.push(
+            <div key={uuid()} className="d-flex justify-content-around py-3">
             {
               SkillRow.map((skill) => (
                 <Skill key={uuid()} skill={skill} />

@@ -17,8 +17,9 @@ function Navbar(props) {
         </Link>
         <button
           className="navbar-toggler"
-          data-toggle="collapse"
-          data-target="#collapseNav"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapseNav"
+
         >
           <i className="fas fa-bars text-dark"></i>
         </button>
