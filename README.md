@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+# Shashidhar Sunnapu
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Frontend Developer | React.js | React Native**
 
-## Available Scripts
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shashidhar-sunnapu/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/SunnapuShashidhar)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## About Me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I am an innovative Frontend Developer with 1.5+ years of hands-on experience in building dynamic and responsive web/mobile applications using React.js and React Native. My proficiency extends to designing user interfaces, optimizing performance, and enhancing user experience. I have self-taught skills in Node.js and MongoDB, furthering my capabilities in full-stack development. I thrive on collaborating with cross-functional teams to deliver high-quality software solutions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Skills
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React.js, React Native, Material UI
+- **Backend:** Node.js, Express, MongoDB
+- **Additional Skills:** Git, RESTful APIs, Jest, Enzyme, Data Structures, Algorithms
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Experience
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Extended Web App Tech
+*Junior Software Engineer*  
+*May 2023 – Present*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Developed and maintained mobile applications using React Native and web applications using React.js.
+- Collaborated with designers, product managers, and other stakeholders to gather requirements and translate them into technical specifications.
+- Created new features and functionalities for web and mobile apps using JavaScript, TypeScript, and Material UI.
+- Integrated APIs and utilized Redux Toolkit for efficient state management.
+- Performed unit testing with Jest and Enzyme ensuring high standards of quality.
 
-### `npm run eject`
+### Edureka
+*MERN Intern*  
+*Mar 2022 – Sep 2022*
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Designed & developed React.js based web applications.
+- Developed RESTful APIs using Node.js and Express.js.
+- Contributed to MongoDB database management including schema design and CRUD operations.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Projects
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Gtutor
+[Live Demo](https://gtutornzb.netlify.app/#/)
+- Developed a platform for serving notes and practice content, specifically designed to support students at our college by providing easy access to educational materials.
+- Designed and implemented a responsive user interface using React.js and Bootstrap.
+- Created features for uploading, organizing, and accessing notes and practice content.
+- Optimized the platform's performance to handle multiple users simultaneously.
 
-## Learn More
+### My Mechanic App
+- Developed the login flow for admin and implemented the dashboard for tracking revenue.
+- Integrated APIs and utilized Redux Toolkit for state management.
+- Implemented revenue charts and search filters for mechanic shops.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Education
 
-### Code Splitting
+**G.G College, Nizamabad**  
+Bachelor of Science (MPCs) (8.10 CGPA)  
+*2019 - 2022*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Trinity Jr College, Karimnagar**  
+Intermediate (MPC) (93%)  
+*2017 - 2019*
 
-### Analyzing the Bundle Size
+**Vijetha School, Medipalli**  
+Secondary School of Certificate (7.8 CGPA)  
+*2016 - 2017*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## Certifications
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Full Stack Development Internship
+- State Level 2nd Prize in Jignasha (Student Study Project) for developing Gtutor
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contact
 
-### Deployment
+- **Email:** sunnapushashidhar@gmail.com
+- **Phone:** +91 9701941724
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shashidhar-sunnapu/) or check out my work on [GitHub](https://github.com/SunnapuShashidhar).
