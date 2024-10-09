@@ -9,53 +9,70 @@
 
 ## About Me
 
-I am an innovative Frontend Developer with 1.5+ years of hands-on experience in building dynamic and responsive web/mobile applications using React.js and React Native. My proficiency extends to designing user interfaces, optimizing performance, and enhancing user experience. I have self-taught skills in Node.js and MongoDB, furthering my capabilities in full-stack development. I thrive on collaborating with cross-functional teams to deliver high-quality software solutions.
+I am an innovative Frontend Developer with 2.5+ years of hands-on experience in building dynamic and responsive web/mobile applications using React.js and React Native. My expertise lies in designing intuitive user interfaces, optimizing performance, and enhancing user experience. I have expanded my skill set to include basic knowledge of Node.js and MongoDB, boosting my abilities in full-stack development. I am skilled at collaborating with cross-functional teams to deliver high-quality software solutions that meet client requirements and exceed expectations.
 
 ---
 
 ## Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React.js, React Native, Material UI
-- **Backend:** Node.js, Express, MongoDB
-- **Additional Skills:** Git, RESTful APIs, Jest, Enzyme, Data Structures, Algorithms
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, TypeScript, React.js, React Native, Material UI
+- **Backend:** Node.js, Express, MongoDB, basic MySQL
+- **Additional Skills:** Data Structures and Algorithms, Git, RESTful APIs, Jest, Enzyme
 
 ---
 
-## Experience
+## Work Experience
+
+### Accumenta Services PVT.LTD
+**Software Engineer**  
+*Jun 2023 – Present*
+
+- Developed and maintained scalable web and mobile applications using React.js and React Native.
+- Collaborated with cross-functional teams to define requirements and translate them into technical specifications.
+- Implemented key features and functionalities based on Figma designs, enhancing user experience and performance.
+- Managed API integrations and utilized Redux Toolkit for optimized state management.
+- Ensured high-quality code through unit testing with Jest and Enzyme, performing thorough code reviews and bug fixing.
 
 ### Extended Web App Tech
-*Junior Software Engineer*  
-*May 2023 – Present*
+**Junior Software Engineer**  
+*May 2023 – May 2024*
 
-- Developed and maintained mobile applications using React Native and web applications using React.js.
-- Collaborated with designers, product managers, and other stakeholders to gather requirements and translate them into technical specifications.
-- Created new features and functionalities for web and mobile apps using JavaScript, TypeScript, and Material UI.
+- Created new features and functionalities for web and mobile apps using React.js, React Native, and Material UI according to Figma designs.
 - Integrated APIs and utilized Redux Toolkit for efficient state management.
-- Performed unit testing with Jest and Enzyme ensuring high standards of quality.
+- Conducted unit testing and bug fixing to maintain high standards of code quality for both web and mobile applications.
 
-### Edureka
-*MERN Intern*  
-*Mar 2022 – Sep 2022*
+### VYRA Tech Solutions Pvt Ltd
+**Junior Software Engineer**  
+*Feb 2022 – May 2023*
 
-- Designed & developed React.js based web applications.
-- Developed RESTful APIs using Node.js and Express.js.
-- Contributed to MongoDB database management including schema design and CRUD operations.
+- Developed and maintained React.js-based web applications, focusing on responsive and reusable user interfaces using Material UI.
+- Assisted in developing RESTful APIs using Node.js and Express.js for data exchange between frontend and backend.
+- Worked on MongoDB database management, including schema design and CRUD operations.
 
 ---
 
 ## Projects
 
-### Gtutor
-[Live Demo](https://gtutornzb.netlify.app/#/)
-- Developed a platform for serving notes and practice content, specifically designed to support students at our college by providing easy access to educational materials.
-- Designed and implemented a responsive user interface using React.js and Bootstrap.
-- Created features for uploading, organizing, and accessing notes and practice content.
-- Optimized the platform's performance to handle multiple users simultaneously.
+### Pellisambandalu (Matrimonial Website)
+[Live Link](https://pellisambandalu.com/)  
+- Built features such as the dashboard, settings, custom sidebar, and routing setup.
+- Integrated APIs for seamless data flow and designed the admin dashboard for monitoring activities.
+- Guided junior developers and ensured smooth performance through routing setup.
+
+### Learning Management System App
+- Developed a learning management app with video upload and playback features across different user roles (Admin, Manager, Team Lead, User).
+- Architected course management and notification systems, ensuring secure authentication for multiple user types.
+- Implemented key components using React Native, Redux Toolkit, and Firebase.
 
 ### My Mechanic App
-- Developed the login flow for admin and implemented the dashboard for tracking revenue.
+- Developed login flow for admin and implemented revenue tracking dashboard with charts and search filters for mechanic shops.
 - Integrated APIs and utilized Redux Toolkit for state management.
-- Implemented revenue charts and search filters for mechanic shops.
+- Built responsive interfaces and features for the admin and user flows.
+
+### Gtutor
+[Live Demo](https://gtutornzb.netlify.app/#/)  
+- Developed a platform for college students to access notes and practice content.
+- Designed a responsive user interface using React.js and Bootstrap, ensuring cross-browser compatibility.
 
 ---
 
