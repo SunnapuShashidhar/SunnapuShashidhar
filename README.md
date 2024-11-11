@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am an innovative Frontend Developer with 2.5+ years of hands-on experience in building dynamic and responsive web/mobile applications using React.js and React Native. My expertise lies in designing intuitive user interfaces, optimizing performance, and enhancing user experience. I have expanded my skill set to include basic knowledge of Node.js and MongoDB, boosting my abilities in full-stack development. I am skilled at collaborating with cross-functional teams to deliver high-quality software solutions that meet client requirements and exceed expectations.
+I am an innovative Frontend Developer with 3+ years of hands-on experience in building dynamic and responsive web/mobile applications using React.js and React Native. My expertise lies in designing intuitive user interfaces, optimizing performance, and enhancing user experience. I have expanded my skill set to include basic knowledge of Node.js and MongoDB, boosting my abilities in full-stack development. I am skilled at collaborating with cross-functional teams to deliver high-quality software solutions that meet client requirements and exceed expectations.
 
 ---
 
