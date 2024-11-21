@@ -43,7 +43,7 @@ I am an innovative Frontend Developer with 3+ years of hands-on experience in bu
 
 ### VYRA Tech Solutions Pvt Ltd
 **Junior Software Engineer**  
-*Feb 2022 – May 2023*
+*Sep 2021 – May 2023*
 
 - Developed and maintained React.js-based web applications, focusing on responsive and reusable user interfaces using Material UI.
 - Assisted in developing RESTful APIs using Node.js and Express.js for data exchange between frontend and backend.
